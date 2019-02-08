@@ -1,0 +1,6 @@
+framework module Pods_MindKeyboard_Tests {
+  umbrella header "Pods-MindKeyboard_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_MindKeyboard_Example {
+  umbrella header "Pods-MindKeyboard_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

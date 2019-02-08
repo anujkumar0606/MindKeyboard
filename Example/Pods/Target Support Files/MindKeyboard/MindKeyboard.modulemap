@@ -1,0 +1,6 @@
+framework module MindKeyboard {
+  umbrella header "MindKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

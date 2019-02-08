@@ -1,0 +1,16 @@
+PODS:
+  - MindKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - MindKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  MindKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MindKeyboard: 66313d5deff72bd8098020a24b93acbf3f790cd4
+
+PODFILE CHECKSUM: d8146848539bdcde1e2ec53a1e5f9e99f968aac0
+
+COCOAPODS: 1.5.3
