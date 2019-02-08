@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MindKeyboard_Example' do
+  pod 'MindKeyboard', :path => '../'
+
+  target 'MindKeyboard_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
